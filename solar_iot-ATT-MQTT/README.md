@@ -15,7 +15,7 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://gitlab.com/AL1T0/solar_iot.git
+git remote add origin https://github.com/chelseedark/DAIoT-MCC.git
 git branch -M main
 git push -uf origin main
 ```
@@ -53,4 +53,4 @@ Use the built-in continuous integration in GitLab.
 - La carpeta `lib` almacena las diferentes bibliotecas requeridas por la aplicación que se desarrolle.
 - El usuario, a partir de una única herramienta y con una API sencilla, dispone de toda la funcionalidad que se requiere para crear, compilar y subir código.
 
-Para compilar el proyecto, es necesario instalar la extensión de PlatformIO IDE y desde la página principal del IDE, levantar el proyecto y realizar la compilación utilizando el comando `PlatformIO:Build`.
+Para compilar el proyecto, es necesario instalar la extensión de PlatformIO IDE y desde la página principal del IDE, levantar el proyecto y realizar la compilación utilizando la herramienta `PlatformIO:Build`.
