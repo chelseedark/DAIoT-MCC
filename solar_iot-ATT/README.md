@@ -1,7 +1,6 @@
-# Solar_IoT_AG_CC
+# Solar_IoT
 
-Sistema de telemetría IoT para el monitoreo de la instalación solar fotovoltaica del Centro Tecnológico FUNINTEC.
-
+Sistema de telemetría IoT para el monitoreo de una instalación solar fotovoltaica.
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
